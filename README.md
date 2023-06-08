@@ -12,12 +12,15 @@ struct estructura {
 void setup()
 {
   Serial.begin(115200);
+  
   struct estructura s1;
   struct estructura *ptr;
+  
   ptr = &s1;
 
   (*ptr).nombre = "Diego";
   (*ptr).numero = 20;
+  
   delay(5000);
 
   Serial.println((*ptr).nombre);
