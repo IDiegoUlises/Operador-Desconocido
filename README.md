@@ -1,7 +1,7 @@
 # Operador-Desconocido
 Este repositorio se utilizara para investigar el operador "->" que es algo con punteros 
 
-### Este codigo
+### Utilizando punteros en estructuras
 
 ```c++
 struct estructura {
