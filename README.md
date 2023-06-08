@@ -60,3 +60,5 @@ void loop()
 
 }
 ```
+
+ptr->campo es equivalente a (*ptr).campo
