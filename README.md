@@ -1,7 +1,5 @@
 # Operador-Desconocido
 
-### Utilizando punteros en estructuras
-
 ```c++
 struct estructura {
   String nombre;
