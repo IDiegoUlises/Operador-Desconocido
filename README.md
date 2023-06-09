@@ -1,4 +1,4 @@
-# Operador de Flecha Para Estructuras
+# Operador Flecha Para Estructuras
 
 ```c++
 struct estructura {
