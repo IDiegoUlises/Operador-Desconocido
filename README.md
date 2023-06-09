@@ -1,4 +1,4 @@
-# Operador-Desconocido
+# Operador de Flecha Para Estructuras
 
 ```c++
 struct estructura {
@@ -29,7 +29,7 @@ void loop()
 
 }
 ```
-* En este codigo se utiliza el operador punto que es (*)
+* En este codigo se esta utilizando el operador punto que es (*)
 
 ### Este codigo es equivalente al anterior
 ```c++
@@ -72,6 +72,6 @@ void loop()
 }
 ```
 
-* En este codigo se utiliza el operador flecha
-* El codigo ``` (*ptr).nombre ``` es equivalente a ``` ptr->nombre ```
-* El motivo porque se utiliza el el operador flecha es simplemente porque es mas comodo para trabajar
+* En este codigo se utiliza el operador flecha que es ``` -> ```
+* En la difinicion ``` (*ptr).nombre ``` es equivalente a ``` ptr->nombre ```
+* El motivo porque se utiliza el el operador flecha es simplemente porque es mas sencillo al programar
