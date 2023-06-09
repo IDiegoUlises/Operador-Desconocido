@@ -1,5 +1,4 @@
 # Operador-Desconocido
-Este repositorio se utilizara para investigar el operador "->" que es algo con punteros 
 
 ### Utilizando punteros en estructuras
 
@@ -32,6 +31,7 @@ void loop()
 
 }
 ```
+* En este codigo se utiliza el operador punto que es (*)
 
 ### Este codigo es equivalente al anterior
 ```c++
