@@ -74,4 +74,4 @@ void loop()
 
 * En este codigo se utiliza el operador flecha que es ``` -> ```
 * En la definicion ``` (*ptr).nombre ``` es equivalente a ``` ptr->nombre ```
-* El motivo porque se utiliza el el operador flecha es simplemente porque es mas sencillo al programar
+* El motivo porque se utiliza el el operador flecha es simplemente porque es mas sencillo para programar
