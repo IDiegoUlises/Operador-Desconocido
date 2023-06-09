@@ -74,4 +74,6 @@ void loop()
 }
 ```
 
-* El codigo ``` (*ptr).nombre ``` es equivalente a ``` ptr->nombre ```  
+* En este codigo se utiliza el operador flecha
+* El codigo ``` (*ptr).nombre ``` es equivalente a ``` ptr->nombre ```
+* El motivo porque se utiliza el el operador flecha es simplemente porque es mas comodo para trabajar
