@@ -74,4 +74,4 @@ void loop()
 }
 ```
 
-ptr->campo es equivalente a (*ptr).campo
+* El codigo ``` (*ptr).nombre ``` es equivalente a ``` ptr->nombre ```  
